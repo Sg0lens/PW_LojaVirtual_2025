@@ -1,0 +1,3 @@
+-- database: c:\Users\samue\OneDrive\Documentos\Ifes\4º Ano\Projeto Integrador\PW\PW_LojaVirtual_2025\dados.db
+
+SELECT * FROM cliente;
